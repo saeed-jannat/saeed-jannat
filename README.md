@@ -44,13 +44,7 @@ Ocelot • RabbitMQ • Redis • Docker
 
 PostgreSQL
 
-### 💳 OwePay
 
-A digital payment platform with NFC wallet capabilities.
-
-**Stack:** .NET • NestJS • PostgreSQL • Redis • NFC
-
----
 
 ## 🛠 Tech Stack
 
