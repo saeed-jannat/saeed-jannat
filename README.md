@@ -22,13 +22,15 @@ Business-focused social platform designed with a distributed architecture for sc
 
 #### Key Features
 
-- 🎯 Personalized feed powered by vector embeddings
-- 🤝 Content-aware follow recommendation system
+- 🎯 Personalized feed powered by vector embeddings and cosine similarity
+- 🤝 Content-aware follow recommendation engine
+- 💬 Real-time messaging with WebSockets
+- 👥 Group chats, channels, and direct messaging
 - 🏗️ Microservices architecture
-- 🚪 API Gateway using Ocelot
-- 📨 Event-driven communication with RabbitMQ
-- ⚡ Redis Cache-Aside implementation
-- 🔄 Asynchronous service communication
+- 🚪 API Gateway powered by Ocelot
+- 📨 Event-driven communication using RabbitMQ
+- ⚡ Redis Cache-Aside pattern for high-performance data access
+- 🚀 Scalable and asynchronous backend services
 
 **Backend**
 
