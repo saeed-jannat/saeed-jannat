@@ -14,7 +14,33 @@ Passionate about designing scalable architectures, building high-performance API
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+### 🌐 Narng
+
+Business-focused social platform designed with a distributed architecture for scalability and personalized content delivery.
+
+#### Key Features
+
+- 🎯 Personalized feed powered by vector embeddings
+- 🤝 Content-aware follow recommendation system
+- 🏗️ Microservices architecture
+- 🚪 API Gateway using Ocelot
+- 📨 Event-driven communication with RabbitMQ
+- ⚡ Redis Cache-Aside implementation
+- 🔄 Asynchronous service communication
+
+**Backend**
+
+ASP.NET Core • NestJS
+
+**Infrastructure**
+
+Ocelot • RabbitMQ • Redis • Docker
+
+**Database**
+
+PostgreSQL
 
 ### 💳 OwePay
 
