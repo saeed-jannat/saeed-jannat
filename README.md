@@ -4,9 +4,6 @@
 <!-- TYPING -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&width=650&lines=Backend+Engineer;NestJS+%7C+.NET;Building+Scalable+Systems;Focused+on+Production-Grade+APIs)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saeed-jannat&label=Profile Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
-</p>
 ---
 
 ## 👨‍💻 About Me
